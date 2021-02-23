@@ -41,7 +41,7 @@ int main()
                 int div = i / j;
                 cout << i << " / " << j << " = " << div << endl;
             }
-            else if(j == 0)
+            else if (j == 0)
             {
                 cout << i << " / " << j << " = indeterminado\n";
             }
