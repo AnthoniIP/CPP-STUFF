@@ -21,8 +21,8 @@ int main(void)
         {
             media = soma / qteNotas;
             cout << "Media da turma: " << media << endl;
-            cout << "Menor Media da turma: " << menorNota << endl;
-            cout << "Maior da turma: " << maiorNota << endl;
+            cout << "Menor media da turma: " << menorNota << endl;
+            cout << "Maior media da turma: " << maiorNota << endl;
             break;
         }
         else
