@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int value = 6;
-   int A[6];
+   int A[value];
    A[0] = 1;
    A[1] = 0;
    A[2] = 5;
